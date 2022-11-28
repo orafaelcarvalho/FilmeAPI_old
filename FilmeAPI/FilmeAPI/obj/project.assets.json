@@ -1880,9 +1880,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Estudos\\Projetos\\FilmeAPI\\FilmeAPI\\FilmeAPI\\FilmeAPI.csproj",
-      "projectName": "FilmeAPI",
-      "projectPath": "E:\\Estudos\\Projetos\\FilmeAPI\\FilmeAPI\\FilmeAPI\\FilmeAPI.csproj",
+      "projectUniqueName": "E:\\Estudos\\Projetos\\FilmeAPI\\FilmeAPI\\FilmeAPI\\FilmesAPI.csproj",
+      "projectName": "FilmesAPI",
+      "projectPath": "E:\\Estudos\\Projetos\\FilmeAPI\\FilmeAPI\\FilmeAPI\\FilmesAPI.csproj",
       "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
       "outputPath": "E:\\Estudos\\Projetos\\FilmeAPI\\FilmeAPI\\FilmeAPI\\obj\\",
       "projectStyle": "PackageReference",

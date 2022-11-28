@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "FilmeAPI": {
+    "FilmesAPI": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
