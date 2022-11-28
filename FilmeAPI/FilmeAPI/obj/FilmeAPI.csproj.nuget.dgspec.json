@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudos\\Projetos\\FilmeAPI\\FilmeAPI\\FilmeAPI\\FilmeAPI.csproj": {}
+    "E:\\Estudos\\Projetos\\FilmeAPI\\FilmeAPI\\FilmeAPI\\FilmeAPI.csproj": {}
   },
   "projects": {
-    "C:\\Estudos\\Projetos\\FilmeAPI\\FilmeAPI\\FilmeAPI\\FilmeAPI.csproj": {
+    "E:\\Estudos\\Projetos\\FilmeAPI\\FilmeAPI\\FilmeAPI\\FilmeAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\Projetos\\FilmeAPI\\FilmeAPI\\FilmeAPI\\FilmeAPI.csproj",
+        "projectUniqueName": "E:\\Estudos\\Projetos\\FilmeAPI\\FilmeAPI\\FilmeAPI\\FilmeAPI.csproj",
         "projectName": "FilmeAPI",
-        "projectPath": "C:\\Estudos\\Projetos\\FilmeAPI\\FilmeAPI\\FilmeAPI\\FilmeAPI.csproj",
-        "packagesPath": "C:\\Users\\rafael.carvalho\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\Projetos\\FilmeAPI\\FilmeAPI\\FilmeAPI\\obj\\",
+        "projectPath": "E:\\Estudos\\Projetos\\FilmeAPI\\FilmeAPI\\FilmeAPI\\FilmeAPI.csproj",
+        "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
+        "outputPath": "E:\\Estudos\\Projetos\\FilmeAPI\\FilmeAPI\\FilmeAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rafael.carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,6 +40,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.17, )"
@@ -65,8 +69,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -78,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
